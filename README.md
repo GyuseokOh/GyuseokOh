@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Gyuseok Oh, who majoring in software department!  
+### Baekjoon Tear
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbtjr970525)](https://solved.ac/rbtjr970525)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbtjr970525)](https://solved.ac/rbtjr970525)  
+
 
 
 <!--
