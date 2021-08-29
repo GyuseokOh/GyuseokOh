@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gyuseok Oh, who majoring in software department!  
+### Hi there 👋 I'm Gyuseok Oh, majoring in software department  
 ### Baekjoon Tear
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbtjr970525)](https://solved.ac/rbtjr970525)  
@@ -25,7 +25,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
