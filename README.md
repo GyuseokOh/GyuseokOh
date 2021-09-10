@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gyuseok Oh, majoring in software department  
+### Hi there 👋 I'm Gyuseok Oh  
 ### Baekjoon Tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rbtjr970525)](https://solved.ac/rbtjr970525)  
